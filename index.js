@@ -34,10 +34,10 @@
 // const result = addExclamation();
 // console.log('How did my test go?' + result);
 
-let people = ['mario', 'luigi', 'ryu', 'shaun', 'chun-li'];
+// let people = ['mario', 'luigi', 'ryu', 'shaun', 'chun-li'];
 
-const logPerson = (person, index) => {
-  console.log(`${index} - hello ${person}.`);
-};
+// const logPerson = (person, index) => {
+//   console.log(`${index} - hello ${person}.`);
+// };
 
-people.forEach(logPerson);
+// people.forEach(logPerson);
