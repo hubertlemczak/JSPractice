@@ -41,5 +41,3 @@
 // };
 
 // people.forEach(logPerson);
-
-//
